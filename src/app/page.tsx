@@ -1,5 +1,3 @@
-
-
 export default function Home() {
   return (
     <div className="bg-indigo-500 h-screen w-screen flex justify-center items-center">
